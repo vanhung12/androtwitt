@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appwidget_configure_instructions">configure it!</string>
+    <string name="app_name">TwitDroid</string>
+    <string name="appwidget_prefix_default">_prefix_</string>
+    <string name="appwidget_text_format">_text_</string>
+    <string name="activity_sample_code">adsfa</string>
+    <string name="title_checkbox_preference">aaa</string>
+    <string name="summary_checkbox_preference">bb</string>
+    <string name="default_value_edittext_preference">cc</string>
+    <string name="title_edittext_preference">dd</string>
+    <string name="summary_edittext_preference">ee</string>
+    <string name="dialog_title_edittext_preference">ff</string>
+    <string name="default_value_list_preference">gg</string>
+    <string name="title_list_preference">hh</string>
+    <string name="summary_list_preference">ii</string>
+    <string name="entries_list_preference">jj</string>
+    <string name="entryvalues_list_preference">kk</string>
+    <string name="dialog_title_list_preference">ll</string>
+    <string name="intro">Bienvenido a androtwitt, para empezar introduce tu nombre de usuario y contraseña</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    
+</resources>
